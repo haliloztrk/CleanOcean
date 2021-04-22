@@ -1,5 +1,4 @@
 # CleanOcean
-## This is the CleanOcean Token
 ### $CLEANOCEAN 
 <img src="https://github.com/eic0/CleanOcean/blob/main/CleanOcean.png" width="60%">
 

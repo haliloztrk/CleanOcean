@@ -2,7 +2,7 @@
 ## This is the CleanOcean Token
 ### $CLEANOCEAN
 
-![CleanOcean](https://github.com/eic0/CleanOcean/blob/main/CleanOcean.png?raw=true)
+![CleanOcean](https://github.com/eic0/CleanOcean/blob/main/CleanOcean.png =250x250)
 
 The CleanOcean Token is an IERC20 token on the Binance Smart Chain.
 

@@ -11,4 +11,4 @@ The CleanOcean Token is an IERC20 token on the Binance Smart Chain.
 
 - [x] Upload Basic Smart Contract
 - [x] Launch Website
-- [ ] Verify Contract
+- [x] Verify Contract
